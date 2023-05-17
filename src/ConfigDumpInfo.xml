@@ -7,7 +7,7 @@
 		<Metadata name="CommonForm.ФормаСканированияКодовМаркировки.Form" id="464962b2-2a04-4065-8b5e-4852c014c78e.0" configVersion="49dc19978e00044e874a4f29ac41475a00000000"/>
 		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер" id="fb00c2d2-2632-4c4b-acb8-d2acd3349ee2" configVersion="bebd80832fafe64299d3d40d8c3ca6b600000000"/>
 		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер.Module" id="fb00c2d2-2632-4c4b-acb8-d2acd3349ee2.0" configVersion="857218d202281d4bac8783e9e310112400000000"/>
-		<Metadata name="Configuration.СканированияКодовМаркировки" id="020e3684-a055-47f5-9b7f-583b7d325af3" configVersion="9c862bd122380746816c6ca9d468b5c000000000"/>
+		<Metadata name="Configuration.СканированияКодовМаркировки" id="020e3684-a055-47f5-9b7f-583b7d325af3" configVersion="7d9236e6fecb8e4d916d137edd1b646100000000"/>
 		<Metadata name="Configuration.СканированияКодовМаркировки.HomePageWorkArea" id="a3c7db50-4d92-463a-85f9-b5b0a55d4239.8" configVersion="77f8f23754c59640af4000ae1a1cd26800000000"/>
 		<Metadata name="Language.Русский" id="2981308c-a14d-4aa1-9f81-95a20f4a5339" configVersion="b8bb3ebaff05d84f9b1ce1484ab4272600000000"/>
 	</ConfigVersions>
